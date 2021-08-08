@@ -27078,3 +27078,5 @@ if (!("swf2js" in window)){(function(window)
 
     window.swf2js = new Swf2js();
 })(window);}
+swf2js.load(http://www.heromachine.com/heromachine-3-lab/);
+           
